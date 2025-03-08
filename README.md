@@ -35,6 +35,12 @@ Provides a range of functions to help you effectively clean up litter in your ar
 |------------|-------------|---------|------------|
 | [Web](https://github.com/fmyaaaaaaa/bluedoghub.com) | Bluedoghub official website | ![Public](https://img.shields.io/badge/Public-43853d?style=flat-square) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
+### 🐶 kmp-app - Kotlin Multiplatform application code base
+| Repository | Description | Status | Tech Stack |
+|------------|-------------|---------|------------|
+| [Mobile](https://github.com/fmyaaaaaaa/kmp-app) | Cross-platform mobile client | ![Public](https://img.shields.io/badge/Public-43853d?style=flat-square) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+
+
 ## 💻 Tech Stack
 
 ### Frontend Development
