@@ -19,7 +19,7 @@ I'm Fumiya and a freelance software engineer passionate about leveraging technol
 ### 📱 🖥️ Littera
 Provides a range of functions to help you effectively clean up litter in your area and stay motivated to keep the streets clean.
 - Mobile: Beta Version is Available
-- Web: https://littera.app.bluedoghub.com/
+- Web: https://littera.app.bluedoghub.com
 
 ## 📚 Featured Repositories
 
