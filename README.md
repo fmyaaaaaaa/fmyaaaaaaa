@@ -16,9 +16,10 @@ I'm Fumiya and a freelance software engineer passionate about leveraging technol
 
 ## 🚀 Featured Projects
 
-### 📱 Littera
+### 📱 🖥️ Littera
 Provides a range of functions to help you effectively clean up litter in your area and stay motivated to keep the streets clean.
-- Beta Version is Available
+- Mobile: Beta Version is Available
+- Web: https://littera.app.bluedoghub.com/
 
 ## 📚 Featured Repositories
 
@@ -27,7 +28,7 @@ Provides a range of functions to help you effectively clean up litter in your ar
 | Repository | Description | Status | Tech Stack |
 |------------|-------------|---------|------------|
 | 🔒 [Mobile](https://github.com/fmyaaaaaaa/littera-mobile) | Cross-platform mobile client | ![Private](https://img.shields.io/badge/Private-red?style=flat-square) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| 🛠️ [Web](https://github.com/fmyaaaaaaa/littera-web) | Web Client | ![Public](https://img.shields.io/badge/Public-43853d?style=flat-square) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [Web](https://github.com/fmyaaaaaaa/littera-web) | [Web Platform](https://littera.app.bluedoghub.com/) | ![Public](https://img.shields.io/badge/Public-43853d?style=flat-square) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | 🔒 [Server](https://github.com/fmyaaaaaaa/littera-core) | Backend API and services | ![Private](https://img.shields.io/badge/Private-red?style=flat-square) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white) |
 | 🔒 [Infra](https://github.com/fmyaaaaaaa/littera-infra) | Infrastructure as Code | ![Private](https://img.shields.io/badge/Private-red?style=flat-square) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=black) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
 
