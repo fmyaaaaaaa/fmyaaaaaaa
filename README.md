@@ -4,7 +4,7 @@
   # 🌏 Welcome to Bluedog
   
   [![Website](https://img.shields.io/badge/Website-bluedoghub.com-blue)](https://bluedoghub.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@fumiya.yamaguchi-1DA1F2)](https://www.linkedin.com/in/fumiya-nico/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-@fumiya.yamaguchi-1DA1F2)](https://www.linkedin.com/in/fumiya-finn/)
   [![Email](https://img.shields.io/badge/Email-fumiya.yamaguchi@bluedoghub.com-green)](mailto:contact@bluedoghub.com)
 
   *Building software for a better tomorrow*
